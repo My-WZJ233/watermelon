@@ -1,4 +1,4 @@
-自己改的支持切换水果
+自己改的合成大西瓜，支持切换水果
 
 https://my-wzj233.github.io/watermelon/.
 
